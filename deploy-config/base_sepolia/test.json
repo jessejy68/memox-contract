@@ -1,0 +1,16 @@
+{
+  "Admin": "0xF9234defe30C7801837185584d5C986045A9A6E6",
+  "Signer": "0xF9234defe30C7801837185584d5C986045A9A6E6",
+  "PlatformFeeReceiver": "0xF9234defe30C7801837185584d5C986045A9A6E6",
+  "MarginReceiver": "0xF9234defe30C7801837185584d5C986045A9A6E6",
+  "GraduateFeeReceiver": "0xF9234defe30C7801837185584d5C986045A9A6E6",
+  "Router": "0xB032ab6808C8b4af5FA397E1181eAFD9ac1fd870",
+  "WETH": "0x4200000000000000000000000000000000000006",
+  "MinLockTime": 86400,
+  "MemeHelper": "",
+  "MemeFactory": "",
+  "MemeCore": "",
+  "MemeVesting": "",
+  "MemeCoreImpl": "",
+  "MemeVestingImpl": ""
+}
