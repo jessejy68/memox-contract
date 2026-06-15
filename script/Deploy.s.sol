@@ -57,7 +57,7 @@ contract DeployScript is Deployer {
 //        environment = "test";           // 测试环境
 //        environment = "pre";            // 预发布环境
         environment = "prod";           // 生产环境
-        
+
         super.setUp();
 
         // 加载配置文件

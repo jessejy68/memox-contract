@@ -25,12 +25,12 @@
 | **基础合约** | WETH | `0x4200000000000000000000000000000000000006` | [查看](https://sepolia.basescan.org/address/0x4200000000000000000000000000000000000006) |
 | | UniswapV2Factory | `0x398Cb0460D5cb84a0cA2C3A71E15761d68B7c609` | [查看](https://sepolia.basescan.org/address/0x398Cb0460D5cb84a0cA2C3A71E15761d68B7c609) |
 | | UniswapV2Router02 | `0xB032ab6808C8b4af5FA397E1181eAFD9ac1fd870` | [查看](https://sepolia.basescan.org/address/0xB032ab6808C8b4af5FA397E1181eAFD9ac1fd870) |
-| **MEMOX 合约** | MemeFactory | `0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04` | [查看](https://sepolia.basescan.org/address/0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04) |
-| | MemeHelper | `0x9d61CDea34373962f3627acad46651806Cd597D0` | [查看](https://sepolia.basescan.org/address/0x9d61CDea34373962f3627acad46651806Cd597D0) |
-| | MemeCore (Proxy) | `0xCd7974a718F9BF3077827076535dAE52255617A2` | [查看](https://sepolia.basescan.org/address/0xCd7974a718F9BF3077827076535dAE52255617A2) |
-| | MemeCore (Impl) | `0x93D346A1424a34568C721e04f527E93CAFde9519` | [查看](https://sepolia.basescan.org/address/0x93D346A1424a34568C721e04f527E93CAFde9519) |
-| | MemeVesting (Proxy) | `0xb91775F2Fa02607851e05dE4cfC6317b722E4f53` | [查看](https://sepolia.basescan.org/address/0xb91775F2Fa02607851e05dE4cfC6317b722E4f53) |
-| | MemeVesting (Impl) | `0xF192Eb40877549C82E8d9798E425F18b82097b7C` | [查看](https://sepolia.basescan.org/address/0xF192Eb40877549C82E8d9798E425F18b82097b7C) |
+| **MEMOX 合约** | MemeFactory | `0xB7795c90A2747C30FCE30564e8E879D2166A93a1` | [查看](https://sepolia.basescan.org/address/0xB7795c90A2747C30FCE30564e8E879D2166A93a1) |
+| | MemeHelper | `0xF0021d9d51580dFA3994Fcf013ca38D8720A87c4` | [查看](https://sepolia.basescan.org/address/0xF0021d9d51580dFA3994Fcf013ca38D8720A87c4) |
+| | MemeCore (Proxy) | `0x33d84F8F5E7Ea1105Dd8a52d7B1Ceb48b43221C5` | [查看](https://sepolia.basescan.org/address/0x33d84F8F5E7Ea1105Dd8a52d7B1Ceb48b43221C5) |
+| | MemeCore (Impl) | `0xB29F30C9a5d18B4E6A89198894B23cF06eCEdCad` | [查看](https://sepolia.basescan.org/address/0xB29F30C9a5d18B4E6A89198894B23cF06eCEdCad) |
+| | MemeVesting (Proxy) | `0x96257F2bc8BC9E7c374eAb73766a5aA31fe80734` | [查看](https://sepolia.basescan.org/address/0x96257F2bc8BC9E7c374eAb73766a5aA31fe80734) |
+| | MemeVesting (Impl) | `0x395F4fcA2cA8E7C4bc3eb00b170e1a641ccaEDd8` | [查看](https://sepolia.basescan.org/address/0x395F4fcA2cA8E7C4bc3eb00b170e1a641ccaEDd8) |
 
 ### Base 主网
 
@@ -38,12 +38,12 @@
 |------|------|------|----------|
 | **基础合约** | WETH | `0x4200000000000000000000000000000000000006` | [查看](https://basescan.org/address/0x4200000000000000000000000000000000000006) |
 | | Uniswap V2 Router | `0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24` | [查看](https://basescan.org/address/0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24) |
-| **MEMOX 合约** | MemeFactory | `0xaB67852E714745dE1A22910aAeeF8844564d1599` | [查看](https://basescan.org/address/0xaB67852E714745dE1A22910aAeeF8844564d1599) |
-| | MemeHelper | `0x6d2a3a8335404834a31998d112852Cf720A1D986` | [查看](https://basescan.org/address/0x6d2a3a8335404834a31998d112852Cf720A1D986) |
-| | MemeCore (Proxy) | `0xAd60714bb32F9870750a12ee061d0f5b3F19abD5` | [查看](https://basescan.org/address/0xAd60714bb32F9870750a12ee061d0f5b3F19abD5) |
-| | MemeCore (Impl) | `0xCa75D9aD93Ec3038A00a101CC5d07055901481e1` | [查看](https://basescan.org/address/0xCa75D9aD93Ec3038A00a101CC5d07055901481e1) |
-| | MemeVesting (Proxy) | `0xbdB49D6C141ec77c1190D023f5E7B6553F35044e` | [查看](https://basescan.org/address/0xbdB49D6C141ec77c1190D023f5E7B6553F35044e) |
-| | MemeVesting (Impl) | `0x783CfcE696C05DA3Fcdb51dD9340e84B690aEeea` | [查看](https://basescan.org/address/0x783CfcE696C05DA3Fcdb51dD9340e84B690aEeea) |
+| **MEMOX 合约** | MemeFactory | `0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04` | [查看](https://basescan.org/address/0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04) |
+| | MemeHelper | `0x9d61CDea34373962f3627acad46651806Cd597D0` | [查看](https://basescan.org/address/0x9d61CDea34373962f3627acad46651806Cd597D0) |
+| | MemeCore (Proxy) | `0xCd7974a718F9BF3077827076535dAE52255617A2` | [查看](https://basescan.org/address/0xCd7974a718F9BF3077827076535dAE52255617A2) |
+| | MemeCore (Impl) | `0x93D346A1424a34568C721e04f527E93CAFde9519` | [查看](https://basescan.org/address/0x93D346A1424a34568C721e04f527E93CAFde9519) |
+| | MemeVesting (Proxy) | `0xb91775F2Fa02607851e05dE4cfC6317b722E4f53` | [查看](https://basescan.org/address/0xb91775F2Fa02607851e05dE4cfC6317b722E4f53) |
+| | MemeVesting (Impl) | `0xF192Eb40877549C82E8d9798E425F18b82097b7C` | [查看](https://basescan.org/address/0xF192Eb40877549C82E8d9798E425F18b82097b7C) |
 
 ---
 
@@ -175,12 +175,12 @@ forge script script/Deploy.s.sol:DeployScript \
 |------|------|----------|
 | **UniswapV2Factory** | `0x398Cb0460D5cb84a0cA2C3A71E15761d68B7c609` | [查看](https://sepolia.basescan.org/address/0x398Cb0460D5cb84a0cA2C3A71E15761d68B7c609) |
 | **UniswapV2Router02** | `0xB032ab6808C8b4af5FA397E1181eAFD9ac1fd870` | [查看](https://sepolia.basescan.org/address/0xB032ab6808C8b4af5FA397E1181eAFD9ac1fd870) |
-| **MemeFactory** | `0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04` | [查看](https://sepolia.basescan.org/address/0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04) |
-| **MemeHelper** | `0x9d61CDea34373962f3627acad46651806Cd597D0` | [查看](https://sepolia.basescan.org/address/0x9d61CDea34373962f3627acad46651806Cd597D0) |
-| **MemeCore (Proxy)** | `0xCd7974a718F9BF3077827076535dAE52255617A2` | [查看](https://sepolia.basescan.org/address/0xCd7974a718F9BF3077827076535dAE52255617A2) |
-| **MemeCore (Impl)** | `0x93D346A1424a34568C721e04f527E93CAFde9519` | [查看](https://sepolia.basescan.org/address/0x93D346A1424a34568C721e04f527E93CAFde9519) |
-| **MemeVesting (Proxy)** | `0xb91775F2Fa02607851e05dE4cfC6317b722E4f53` | [查看](https://sepolia.basescan.org/address/0xb91775F2Fa02607851e05dE4cfC6317b722E4f53) |
-| **MemeVesting (Impl)** | `0xF192Eb40877549C82E8d9798E425F18b82097b7C` | [查看](https://sepolia.basescan.org/address/0xF192Eb40877549C82E8d9798E425F18b82097b7C) |
+| **MemeFactory** | `0xB7795c90A2747C30FCE30564e8E879D2166A93a1` | [查看](https://sepolia.basescan.org/address/0xB7795c90A2747C30FCE30564e8E879D2166A93a1) |
+| **MemeHelper** | `0xF0021d9d51580dFA3994Fcf013ca38D8720A87c4` | [查看](https://sepolia.basescan.org/address/0xF0021d9d51580dFA3994Fcf013ca38D8720A87c4) |
+| **MemeCore (Proxy)** | `0x33d84F8F5E7Ea1105Dd8a52d7B1Ceb48b43221C5` | [查看](https://sepolia.basescan.org/address/0x33d84F8F5E7Ea1105Dd8a52d7B1Ceb48b43221C5) |
+| **MemeCore (Impl)** | `0xB29F30C9a5d18B4E6A89198894B23cF06eCEdCad` | [查看](https://sepolia.basescan.org/address/0xB29F30C9a5d18B4E6A89198894B23cF06eCEdCad) |
+| **MemeVesting (Proxy)** | `0x96257F2bc8BC9E7c374eAb73766a5aA31fe80734` | [查看](https://sepolia.basescan.org/address/0x96257F2bc8BC9E7c374eAb73766a5aA31fe80734) |
+| **MemeVesting (Impl)** | `0x395F4fcA2cA8E7C4bc3eb00b170e1a641ccaEDd8` | [查看](https://sepolia.basescan.org/address/0x395F4fcA2cA8E7C4bc3eb00b170e1a641ccaEDd8) |
 
 ---
 
@@ -201,12 +201,12 @@ forge script script/Deploy.s.sol:DeployScript \
 | 合约 | 地址 | BaseScan |
 |------|------|----------|
 | **Uniswap V2 Router** | `0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24` | [查看](https://basescan.org/address/0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24) |
-| **MemeFactory** | `0xaB67852E714745dE1A22910aAeeF8844564d1599` | [查看](https://basescan.org/address/0xaB67852E714745dE1A22910aAeeF8844564d1599) |
-| **MemeHelper** | `0x6d2a3a8335404834a31998d112852Cf720A1D986` | [查看](https://basescan.org/address/0x6d2a3a8335404834a31998d112852Cf720A1D986) |
-| **MemeCore (Proxy)** | `0xAd60714bb32F9870750a12ee061d0f5b3F19abD5` | [查看](https://basescan.org/address/0xAd60714bb32F9870750a12ee061d0f5b3F19abD5) |
-| **MemeCore (Impl)** | `0xCa75D9aD93Ec3038A00a101CC5d07055901481e1` | [查看](https://basescan.org/address/0xCa75D9aD93Ec3038A00a101CC5d07055901481e1) |
-| **MemeVesting (Proxy)** | `0xbdB49D6C141ec77c1190D023f5E7B6553F35044e` | [查看](https://basescan.org/address/0xbdB49D6C141ec77c1190D023f5E7B6553F35044e) |
-| **MemeVesting (Impl)** | `0x783CfcE696C05DA3Fcdb51dD9340e84B690aEeea` | [查看](https://basescan.org/address/0x783CfcE696C05DA3Fcdb51dD9340e84B690aEeea) |
+| **MemeFactory** | `0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04` | [查看](https://basescan.org/address/0x7E8db7526D7fd6519bDCB374f97Da698cF8b8a04) |
+| **MemeHelper** | `0x9d61CDea34373962f3627acad46651806Cd597D0` | [查看](https://basescan.org/address/0x9d61CDea34373962f3627acad46651806Cd597D0) |
+| **MemeCore (Proxy)** | `0xCd7974a718F9BF3077827076535dAE52255617A2` | [查看](https://basescan.org/address/0xCd7974a718F9BF3077827076535dAE52255617A2) |
+| **MemeCore (Impl)** | `0x93D346A1424a34568C721e04f527E93CAFde9519` | [查看](https://basescan.org/address/0x93D346A1424a34568C721e04f527E93CAFde9519) |
+| **MemeVesting (Proxy)** | `0xb91775F2Fa02607851e05dE4cfC6317b722E4f53` | [查看](https://basescan.org/address/0xb91775F2Fa02607851e05dE4cfC6317b722E4f53) |
+| **MemeVesting (Impl)** | `0xF192Eb40877549C82E8d9798E425F18b82097b7C` | [查看](https://basescan.org/address/0xF192Eb40877549C82E8d9798E425F18b82097b7C) |
 
 ---
 
